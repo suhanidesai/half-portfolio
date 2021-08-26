@@ -1,0 +1,32 @@
+.header{
+font-size:50px;
+font-family:"Broadway";
+border-style:double;
+border-radius:20px;
+}
+body
+{
+background-color:#8ACFF0;}
+.aboutme{
+display:flex;
+flex-wrap: wrap;
+justify-content:space-evenly;
+border-style:double;
+border-color:blue;
+margin:30px;
+padding:10px;
+border-radius:20px;
+background-color:#087CB6;
+}
+img
+{
+border-radius:20px ;
+border-color:cornflowerblue;
+border-style:double;
+}
+.message{
+margin-left: 800px;
+text-decoration:underline;
+font-size:50px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
